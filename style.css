@@ -132,23 +132,23 @@ nav{
 }
 
 .sliderItem:nth-child(1) .sliderBg{
-    background-color: white;
+    background-color: green;
 }
 
 .sliderItem:nth-child(2) .sliderBg{
-    background-color: lightblue;
+    background-color: rgb(238, 234, 6);
 }
 
 .sliderItem:nth-child(3) .sliderBg{
-    background-color: lightgreen;
+    background-color: rgb(100, 20, 204);
 }
 
 .sliderItem:nth-child(4) .sliderBg{
-    background-color: lightsalmon;
+    background-color: rgb(250, 29, 13);
 }
 
 .sliderItem:nth-child(5) .sliderBg{
-    background-color: lightslategray;
+    background-color: rgb(255, 2, 200);
 }
 
 .features{
